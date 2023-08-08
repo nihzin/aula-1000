@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+
+}
+
+.logo {
+    width: 30%;
+    
+
+}
+.header, .form-group{
+    margin:20px;
+}
